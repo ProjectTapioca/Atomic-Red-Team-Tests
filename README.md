@@ -6,9 +6,14 @@ Project was hosted on my homelab where I execute a variety of Canary Red Tests, 
 ## Setup
 
 ### Network
+Link to network diagram
+Hyperlink to network section
+Small summary entire network stack
 
 ### Wazuh
+Small summary of wazuh
 
 ### Atomic Host
+Small summary of the vm used to run atomic tests
 
 ### Learning Lessons
