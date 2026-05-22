@@ -1,4 +1,5 @@
-# Wazuh + ART Testing
+# MITRE ATT&CK Attack Lifecycle Detection Lab
+### *Wazuh SIEM + Sysmon + Atomic Red Team*
 This project is based on [Wazuh: Emulation of ATT&CK Techniques](https://wazuh.com/blog/emulation-of-attck-techniques-and-detection-with-wazuh/).
 I demonstrate the components of basic network configuration and using Wazuh to ingest logs generated from Atomic Red Team Tests. Everything performed was completed on my homelab stack.
 
